@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377801049645",
+    "project_id": "communiversity-67e19",
+    "storage_bucket": "communiversity-67e19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377801049645:android:20274be1ff599fbbaadaa4",
+        "android_client_info": {
+          "package_name": "com.example.communiversity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377801049645-c37ebkkp1fg9pjrpigs1gotl8014krrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGr31ncnQCqpCRAKYoezEP7qEEsuZlLkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377801049645-c37ebkkp1fg9pjrpigs1gotl8014krrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
